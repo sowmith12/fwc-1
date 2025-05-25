@@ -23,7 +23,7 @@ Used 7447 (BCD to 7-segment decoder) and 7474 (flip-flops) to build:
 - Decoders
 - Logic circuit integrations
 
-![Seven Segment Output](sevenseg.jpg)
+![Seven Segment Output](sevensegment.jpg)
 
 ---
 
@@ -37,7 +37,9 @@ Solved digital logic problems from GATE, including:
 
 Each solution was backed with diagrams, truth tables, and verification.
 
-![GATE Problem](images/gatesolutions.png)
+![GATE Problem](gatesolutions.jpg)
+
+![GATE Problem](gatesolution2.mp4)
 
 ---
 
