@@ -5,7 +5,6 @@
 
 Set up embedded projects on Arduino using PlatformIO. Verified LED blinks, serial monitoring, and pin toggling.
 
-![PlatformIO](images/example.png)
 
 ---
 
@@ -14,8 +13,6 @@ Set up embedded projects on Arduino using PlatformIO. Verified LED blinks, seria
 Wrote, compiled, and tested:
 - Embedded C code on Arduino
 - AVR-gcc Assembly integrated into Arduino IDE
-
-![Assembly Code](images/example.png)
 
 ---
 
@@ -26,7 +23,7 @@ Used 7447 (BCD to 7-segment decoder) and 7474 (flip-flops) to build:
 - Decoders
 - Logic circuit integrations
 
-![Seven Segment Output](images/example.png)
+![Seven Segment Output](images/sevenseg.png)
 
 ---
 
@@ -40,7 +37,7 @@ Solved digital logic problems from GATE, including:
 
 Each solution was backed with diagrams, truth tables, and verification.
 
-![GATE Problem](images/example.png)
+![GATE Problem](images/gatesolutions.png)
 
 ---
 
