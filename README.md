@@ -13,7 +13,7 @@ Set up embedded projects on Arduino using PlatformIO. Verified LED blinks, seria
 
 Wrote, compiled, and tested:
 - Embedded C code on Arduino
-- AVR Assembly integrated into Arduino IDE
+- AVR-gcc Assembly integrated into Arduino IDE
 
 ![Assembly Code](images/example.png)
 
@@ -30,22 +30,13 @@ Used 7447 (BCD to 7-segment decoder) and 7474 (flip-flops) to build:
 
 ---
 
-## 4. Karnaugh Maps (K-Maps) 🧠
 
-Solved 2- to 4-variable K-map problems, including:
-- SOP and POS simplifications
-- Logic gate realizations and truth tables
-
-![K-map](images/example.png)
-
----
-
-## 5. GATE-Level Assignments 📘
+## 4. GATE-Level Assignments 📘
 
 Solved digital logic problems from GATE, including:
 - Flip-flops
-- FSMs
-- Counters and logic simplifications
+- implemented logic simplification questions with arduino, avr-gcc and assembly level programming
+- logic simplifications
 
 Each solution was backed with diagrams, truth tables, and verification.
 
@@ -53,23 +44,18 @@ Each solution was backed with diagrams, truth tables, and verification.
 
 ---
 
-## 6. Raspberry Pi + VAMAN + Termux Workflow 🔁
+## 5. Raspberry Pi + VAMAN + Termux Workflow 🔁
 
 ### 📱 Termux + Android Setup:
 - Used Termux to write Verilog code, use Git, and sync with Raspberry Pi.
 - SSH and SCP used for seamless phone-to-Pi transfer.
 
-### 🧠 VAMAN FPGA Development:
-- Wrote Verilog HDL
-- Created `.xdc` constraint files
-- Used Vivado to generate bitstreams
-- Projects include LED blinks, switch-controlled VGA paint tool, eraser mode, etc.
 
 ![FPGA Output](images/example.png)
 
 ---
 
-## 7. Automation & Networking Projects 🔐
+## 6. Automation & Networking Projects 🔐
 
 ### 🤖 Telegram Bot:
 - Built a Telegram bot using Python on Raspberry Pi.
@@ -89,9 +75,9 @@ Each solution was backed with diagrams, truth tables, and verification.
 
 ## 📸 Gallery
 
-| PlatformIO | Assembly | 7-Segment | K-Map | FPGA VGA | Telegram Bot | Pi-hole |
+| PlatformIO | Assembly | 7-Segment  | FPGA VGA | Telegram Bot | Pi-hole |
 |------------|----------|-----------|-------|----------|---------------|----------|
-| ![](images/example.png) | ![](images/example.png) | ![](images/example.png) | ![](images/example.png) | ![](images/example.png) | ![](images/example.png) | ![](images/example.png) |
+| ![](images/example.png) | ![](images/example.png) |  ![](images/example.png) | ![](images/example.png) | ![](images/example.png) | ![](images/example.png) |
 
 ---
 
@@ -99,11 +85,9 @@ Each solution was backed with diagrams, truth tables, and verification.
 
 - [x] PlatformIO Arduino Projects  
 - [x] Embedded C + Assembly  
-- [x] Digital Logic Circuits (IC 7447, 7474)  
-- [x] K-map Simplification  
+- [x] Digital Logic Circuits (IC 7447, 7474)   
 - [x] GATE-level Assignments  
 - [x] Raspberry Pi SSH + Termux Workflow  
-- [x] VAMAN FPGA Projects  
 - [x] Telegram Bot Automation  
 - [x] Pi-hole DNS Server  
 
