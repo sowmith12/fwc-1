@@ -23,7 +23,7 @@ Used 7447 (BCD to 7-segment decoder) and 7474 (flip-flops) to build:
 - Decoders
 - Logic circuit integrations
 
-![Seven Segment Output](sevensegment.jpg)
+![Seven Segment Output](sevensegment.png)
 
 ---
 
