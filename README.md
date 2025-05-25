@@ -39,7 +39,6 @@ Each solution was backed with diagrams, truth tables, and verification.
 
 ![GATE Problem](gatesolutions.jpg)
 
-![GATE Problem](gatesolution2.mp4)
 
 ---
 
@@ -50,7 +49,6 @@ Each solution was backed with diagrams, truth tables, and verification.
 - SSH and SCP used for seamless phone-to-Pi transfer.
 
 
-![FPGA Output](images/example.png)
 
 ---
 
@@ -61,24 +59,16 @@ Each solution was backed with diagrams, truth tables, and verification.
 - Functions include remote command handling, GPIO control, message parsing, etc.
 - Automated actions like turning on/off LEDs or sending status.
 
-![Telegram Bot](images/example.png)
+
 
 ### 🌐 Pi-hole (Network-wide Ad Blocking):
 - Installed and configured Pi-hole on Raspberry Pi.
 - Set up DNS filtering for entire network.
 - Blacklists, custom domains, and analytics configured via admin dashboard.
 
-![Pi-hole Dashboard](images/example.png)
 
 ---
 
-## 📸 Gallery
-
-| PlatformIO | Assembly | 7-Segment  | FPGA VGA | Telegram Bot | Pi-hole |
-|------------|----------|-----------|-------|----------|---------------|----------|
-| ![](images/example.png) | ![](images/example.png) |  ![](images/example.png) | ![](images/example.png) | ![](images/example.png) | ![](images/example.png) |
-
----
 
 ## ✅ Project Highlights
 
@@ -103,10 +93,4 @@ Each solution was backed with diagrams, truth tables, and verification.
 
 ---
 
-## 📬 Contact
-
-For collabs, guidance, or tech rants:  
-📧 `your-email@example.com`
-
----
 
