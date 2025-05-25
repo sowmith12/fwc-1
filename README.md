@@ -39,6 +39,9 @@ Each solution was backed with diagrams, truth tables, and verification.
 
 ![GATE Problem](gatesolutions.jpg)
 
+![GATE Problem](gates2.jpg)
+
+![GATE Problem](gates3.png)
 
 ---
 
