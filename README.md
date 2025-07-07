@@ -111,6 +111,10 @@ This repository contains comprehensive implementation guides for programming the
 - [Troubleshooting](#troubleshooting)
 - [Resources](#resources)
 
+### Digital Design Book
+
+The book is present [here](https://github.com/gadepall/digital-design/blob/main/main.pdf).
+
 ## Prerequisites
 
 ### Hardware Requirements
