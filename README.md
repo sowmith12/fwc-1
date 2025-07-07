@@ -288,11 +288,11 @@ This repository contains comprehensive implementation guides for programming the
 
 ## Assignment Questions
 **esp32 assignment question **
-<img src="esp.png" alt="Alt text" width="500" height="300">
+<img src="esp.jpg" alt="Alt text" width="500" height="300">
 **arm assignment question **
-<img src="arm.png" alt="Alt text" width="500" height="300">
+<img src="arm.jpg" alt="Alt text" width="500" height="300">
 **fpga assignment question **
-<img src="fpga_assgn.png" alt="Alt text" width="500" height="300">
+<img src="fpga_assgn.jpg" alt="Alt text" width="500" height="300">
 
 ### Documentation
 - [PlatformIO Documentation](https://platformio.org/docs/)
