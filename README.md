@@ -219,9 +219,9 @@ This repository contains comprehensive implementation guides for programming the
    nmap -sn 192.168.231.1/24
    ```
 
-## ARM Programming
+## FPGA Programming
 
-### Setup ARM Development Environment
+### Setup FPGA Development Environment
 
 1. **Follow the instructions from the video:**
    ```
@@ -262,7 +262,7 @@ This repository contains comprehensive implementation guides for programming the
    python3 TinyFPGA-Programmer-Application/tinyfpga-programmer-gui.py --port /dev/ttyACM0 --appfpga /home/pi/helloworldfpga.bin --mode fpga --reset
    ```
 
-## FPGA Programming
+## ARM Programming
 
 ### Environment Setup
 
@@ -287,90 +287,12 @@ This repository contains comprehensive implementation guides for programming the
    ```
 
 ## Assignment Questions
-
-### ESP32 Assignments
-
-1. **Basic GPIO Control:**
-   - Modify the blink program to control multiple LEDs
-   - Implement a traffic light sequence using different GPIO pins
-   - Create a button-controlled LED program
-
-2. **WiFi and Communication:**
-   - Set up a web server on ESP32 to control LEDs remotely
-   - Implement MQTT communication for IoT applications
-   - Create a simple HTTP client to send sensor data
-
-3. **Sensor Integration:**
-   - Interface a temperature sensor and display readings
-   - Implement PWM control for motor speed regulation
-   - Create an interrupt-based system for external events
-
-### ARM Assignments
-
-1. **System Programming:**
-   - Write a program to control GPIO pins directly from ARM processor
-   - Implement a real-time clock application
-   - Create a simple file system manager
-
-2. **Communication Protocols:**
-   - Implement SPI communication between ARM and peripherals
-   - Set up I2C communication for sensor data collection
-   - Create a UART-based communication system
-
-3. **Performance Optimization:**
-   - Compare processing speeds between different ARM optimization levels
-   - Implement memory-efficient algorithms
-   - Create multi-threaded applications for parallel processing
-
-### FPGA Assignments
-
-1. **Digital Logic Design:**
-   - Design a 4-bit counter using Verilog
-   - Implement a simple ALU (Arithmetic Logic Unit)
-   - Create a finite state machine for sequence detection
-
-2. **Communication Interfaces:**
-   - Design a UART transmitter and receiver
-   - Implement SPI master and slave modules
-   - Create a simple memory controller
-
-3. **Advanced Projects:**
-   - Design a digital filter for signal processing
-   - Implement a simple CPU core
-   - Create a VGA display controller
-
-## Troubleshooting
-
-### Common Issues
-
-1. **ESP32 Upload Failures:**
-   - Check USB cable connection
-   - Verify correct COM port selection
-   - Ensure ESP32 is in boot mode
-
-2. **ARM Compilation Errors:**
-   - Verify all dependencies are installed
-   - Check cross-compilation toolchain setup
-   - Ensure correct board configuration
-
-3. **FPGA Programming Issues:**
-   - Verify board is in download mode
-   - Check .bin file integrity
-   - Ensure correct pin assignments in PCF file
-
-### Network Issues
-
-1. **WiFi Connection Problems:**
-   - Verify SSID and password are correct
-   - Check network compatibility (2.4GHz vs 5GHz)
-   - Ensure firewall settings allow connections
-
-2. **SCP Transfer Issues:**
-   - Verify SSH is enabled on Raspberry Pi
-   - Check IP addresses and network connectivity
-   - Ensure correct file permissions
-
-## Resources
+**esp32 assignment question **
+<img src="esp.png" alt="Alt text" width="500" height="300">
+**arm assignment question **
+<img src="arm.png" alt="Alt text" width="500" height="300">
+**fpga assignment question **
+<img src="fpga_assgn.png" alt="Alt text" width="500" height="300">
 
 ### Documentation
 - [PlatformIO Documentation](https://platformio.org/docs/)
@@ -381,32 +303,4 @@ This repository contains comprehensive implementation guides for programming the
 - [Termux Setup Guide](https://github.com/whyakari/TermuxDisableProcess?tab=readme-ov-file)
 - [FPGA Programming Basics](link-to-video)
 - [ARM Cross-Compilation](link-to-video)
-
-### Community Support
-- [Vaman Board Forum](link-to-forum)
-- [ESP32 Community](https://esp32.com/)
-- [ARM Developer Community](https://community.arm.com/)
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- ESP32 development team for the excellent platform
-- ARM community for comprehensive documentation
-- FPGA open-source community for tools and resources
-- Contributors to the Vaman board project
-
----
-
-*Last updated: [Current Date]*
-*Version: 1.0*
 
